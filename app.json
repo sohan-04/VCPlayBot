@@ -14,7 +14,6 @@
     "SESSION_NAME": {
       "description": "Pyrogram session string",
       "required": true
-      "value": "BQBAP5Ycm123tX983vZW1qk4Q4Fj3VKAuEtRc87uP4paZyJ0SeBS_1ROfci7QKwD97B9tZnILqPxUg1D4A3YKoo8Hmb5y0Gw4dOfAxvw51NvKOIE_-aXX789rICY2bjwrVF3UQRWWOJNZKY4cU9iG8EvHlEEN3xDazXZzTFYDUrY2N3cUCvhuY4asAPhYpSNesh_IciJm3DkGRLi9herWJ_PrqMTMFfS1KpYPihHcIL8p4c4TJxBvYUPWFZIVeD5emuql3T0jKekCjCMn-yURomk-yJE5LdWbOTdYnt4LXklx5T5l5eFfkYxf9heGBHOOppXIj2jtj-ZRDVhEjMOcw8dbxWYNwA"
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
@@ -80,7 +79,6 @@
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
-      "value": "guyofcrypton guyofcrypton2"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
