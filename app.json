@@ -18,7 +18,6 @@
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
       "required": true
-      "value": "5029512964:AAF79zUjWRxbR6hGvria0cY-ltFs23U-gn8"
     },
     "BOT_USERNAME": {
       "description": "Your bot's username without @",
